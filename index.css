@@ -1,0 +1,26 @@
+#search{
+    margin: 20px;
+    display: flex;
+}
+
+#results {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+#results:hover{
+    background: grey;
+    color: white;
+}
+
+#search-value {
+    font-size: 18px;
+}
+
+.video-results {
+    display: flex;
+    margin: 20px;
+}
